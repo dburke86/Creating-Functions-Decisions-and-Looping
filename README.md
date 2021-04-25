@@ -6,11 +6,8 @@ In this code, I simulate an environment where a student can build their course s
 
 Objectives
 After completing this lab, you will be able to:
-
-Implement functions in code.
-
-Implement decisions in code.
-
-Implement repetition structures in code.
+\nImplement functions in code.
+\nImplement decisions in code.
+\nImplement repetition structures in code.
 
 
